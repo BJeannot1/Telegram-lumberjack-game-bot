@@ -76,7 +76,7 @@ while(continue_):
     if ((colleft[0]>bushColorlimitBLU) and (colright[0]>bushColorlimitBLU)):
         bushcoordY = secondary_bush_y_coord
         max_bushes_on_vertical=4
-    #loop on each potential branch to check if you should cut on the left or the right sindexe
+    #loop on each potential branch to check if you should cut on the left or the right
     for i in range(max_bushes_on_vertical, -1, -1):
         colleft[i] = im.getpixel((bushcoordlX, bushcoordY + vert_dist_between_bush * i))[2]
         colright[i] = im.getpixel((bushcoordrX, bushcoordY + vert_dist_between_bush * i))[2]
