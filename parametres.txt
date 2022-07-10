@@ -1,12 +1,12 @@
 max level of blue of bushes,200
 X coord to check for bushes on the left side,881 #adapted for 1920*1080
 X coord to check for bushes on the right side,1038 #adapted for 1920*1080
-coordinates x of start button,960 #adapted for 1920*1080
-coordinates y of start button,924 #adapted for 1920*1080
-coordinates x of left click button,881 #adapted for 1920*1080
-coordinates y of left click button,924 #adapted for 1920*1080
-coordinates x of right click button,1047 #adapted for 1920*1080
-coordinates y of right click button,919 #adapted for 1920*1080
+coordinate x of start button,960 #adapted for 1920*1080
+coordinate y of start button,924 #adapted for 1920*1080
+coordinate x of left click button,881 #adapted for 1920*1080
+coordinate y of left click button,924 #adapted for 1920*1080
+coordinate x of right click button,1047 #adapted for 1920*1080
+coordinate y of right click button,919 #adapted for 1920*1080
 vert_dist_between_bush,100 #adapted for 1920*1080
 y coordinates at which to find the heighest bush if there is no bush at y=1,46 #adapted for 1920*1080
 coordinate x of gameover right,1063 #adapted for 1920*1080
