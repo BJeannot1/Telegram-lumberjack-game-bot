@@ -94,6 +94,7 @@ while(continue_):
     colright_gameover=im.getpixel(right_gameover)[0]
     if ((colleft_gameover==axe_col_gameover)or (colright_gameover==axe_col_gameover)):
         continue_=False
-    
+#delete all images and geckodriver log
+shutil.rmtree(path="im_lmbjk")  
 
 
