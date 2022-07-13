@@ -11,6 +11,7 @@ The game can be played [here](https://tbot.xyz/lumber/#eyJ1IjoxMTgyMDUxMTQ2LCJuI
 # **II.	Bot playing the game**
   ## 1. Principle
 The bot screens the color of specific pixels on each side of the tree, and uses these information in order to determine on what side of the tree to chop. It uses the following python libraries :
+
 -selenium, win32api and win32 con, for automation purposes
 -numpy, for reading the file of parameters
 -pyautoguy, for saving images of the screen and analyzing pixels color
