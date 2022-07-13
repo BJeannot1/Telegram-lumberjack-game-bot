@@ -1,4 +1,4 @@
-I made a bot playing the lumberjack telegram game, getting a score up to 1050 (A performance i saw no other bot achieve on the internet)
+### I made a bot playing the lumberjack telegram game
 
 # **I.	Quick description of the game**
 
