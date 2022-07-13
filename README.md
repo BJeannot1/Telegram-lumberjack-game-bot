@@ -10,7 +10,10 @@ The game can be played [here](https://tbot.xyz/lumber/#eyJ1IjoxMTgyMDUxMTQ2LCJuI
 
 # **II.	Bot playing the game**
   ## 1. Principle
-The bot screens the color of specific pixels on each side of the tree, and uses these information in order to determine on what side of the tree to chop. It uses the following python libraries :
+The bot screens the color of specific pixels on each side of the tree, and uses these information in order to determine on what side of the tree to chop.
+ ## 2.Required librairied
+
+The bot uses the following python libraries :
 
 -selenium, win32api and win32 con, for automation purposes
 
@@ -20,11 +23,16 @@ The bot screens the color of specific pixels on each side of the tree, and uses 
 
 -shutil, for deleting the folder that stores all the tmporary images created when running the code
 
-The bot's performance compared to other bots on the internet comes from the fact I use a single image to decide about the next 5 to 6 moves, by screening different pixels at the same time, while other bots usually  
-  ## 2. Limitations
+  ## 3. Limitations
 -This is a bot working on Windows.
 -You need Firefox installed
--The default parameters are adapted for a resolution of 1920*1080.
+-The default parameters are adapted only for a resolution of 1920*1080. You can change the values in the file parameters.txt to adapt the bot to other screen resolutions
+
+
+  ## 4. Performance
+Here is a video showing off the performance of the code :
+
+The bot's performance compared to others on the internet comes from the fact it use a single image to decide about the next 5 to 6 moves, by screening different pixels at the same time, while other codes usually use a given image to decide only about the next move.
 
 
   ## 1.Video of the bot
