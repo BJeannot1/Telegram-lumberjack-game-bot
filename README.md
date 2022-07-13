@@ -14,20 +14,16 @@ The bot screens the color of specific pixels on each side of the tree, and uses 
  ## 2.Required librairied
 
 The bot uses the following python libraries :
-
--selenium, win32api and win32 con, for automation purposes
-
--numpy, for reading the file of parameters
-
--pyautoguy, for saving images of the screen and analyzing pixels color
-
--shutil, for deleting the folder that stores all the tmporary images created when running the code
+- selenium, win32api and win32 con, for automation purposes
+- numpy, for reading the file of parameters
+- pyautoguy, for saving images of the screen and analyzing pixels color
+- shutil, for deleting the folder that stores all the temporary images created when running the code
 
   ## 3. Limitations
--This is a bot working on Windows.
--You need Firefox installed
--The default parameters are adapted only for a resolution of 1920*1080. You can change the values in the file parameters.txt to adapt the bot to other screen resolutions
-
+  
+- This is a bot working on Windows only
+- You need Firefox installed
+- The default parameters are adapted only for a resolution of 1920*1080. You can change the values in the file parameters.txt to adapt the bot to other screen resolutions
 
   ## 4. Performance
 Here is a video showing off the performance of the code :
