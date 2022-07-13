@@ -1,4 +1,4 @@
-### This repository presents a bot I made that plays the telgram lumberjack game. To the best of my knowledge, this is the best bot on the internet for this game (Max score : 1074).
+### This repository presents a bot I made that plays the telgram lumberjack game. To the best of my knowledge, this is the best bot on the internet for this game (Average score around 1050).
 
 # **I.	Quick description of the game**
 
@@ -19,15 +19,19 @@ The bot uses the following python libraries :
 - pyautoguy, for saving images of the screen and analyzing pixels color
 - shutil, for deleting the folder that stores all the temporary images created when running the code
 
-  ## 3. Limitations
+## 3. Limitations
   
 - This is a bot working on Windows only
 - You need Firefox installed
 - The default parameters are adapted only for a resolution of 1920*1080. You can change the values in the file parameters.txt to adapt the bot to other screen resolutions
 
-  ## 4. Performance
+## 4. Performance
 Here is a video showing off the performance of the code :
 
+
+
+            Video_demo.wmv
+          
 The bot's performance compared to others on the internet comes from the fact it use a single image to decide about the next 5 to 6 moves, by screening different pixels at the same time, while other codes usually use a given image to decide only about the next move.
 
   ## 5. Using the bot
