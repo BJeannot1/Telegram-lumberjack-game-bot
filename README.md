@@ -7,4 +7,12 @@ In this game, the user plays as a lumberjack cutting an infinitely tall tree. Th
 ![alt text](https://github.com/BJeannot1/Telegram-lumberjack-game-bot/blob/master/illustration.png?raw=true)
 
 # **II.	Bot playing the game**
+  ## 1. Principle
+The bot screens the color of specific pixels on each side of the tree, and uses these information in order to determine on what side of the tree to chop. It uses the following python libraries
+  ## 2. Limitations
+-This is a bot working on Windows.
+-You need Firefox installed
+-The default parameters are adapted for a resolution of 1920*1080.
+
+
   ## 1.Video of the bot
