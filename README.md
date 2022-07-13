@@ -30,5 +30,6 @@ Here is a video showing off the performance of the code :
 
 The bot's performance compared to others on the internet comes from the fact it use a single image to decide about the next 5 to 6 moves, by screening different pixels at the same time, while other codes usually use a given image to decide only about the next move.
 
-
-  ## 1.Video of the bot
+  ## 5. Using the bot
+  Download the repository and run Main.py. That is it !
+  
