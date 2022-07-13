@@ -1,4 +1,4 @@
-### This repositories presents a bot I made that plays the telgram lumberjack game. To the best of my knowledge, this is the best bot on the internet for this game (Max score : 1050).
+### This repository presents a bot I made that plays the telgram lumberjack game. To the best of my knowledge, this is the best bot on the internet for this game (Max score : 1050).
 
 # **I.	Quick description of the game**
 
