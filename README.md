@@ -6,10 +6,7 @@ In this game, the user plays as a lumberjack cutting an infinitely tall tree. Th
 
 ![alt text](https://github.com/BJeannot1/Telegram-lumberjack-game-bot/blob/master/illustration.png?raw=true)
 
-The game can be played at the following link : <a href="URL">https://tbot.xyz/lumber/#eyJ1IjoxMTgyMDUxMTQ2LCJuIjoiQmVuemkgSiIsImciOiJMdW1iZXJKYWNrIiwiY2kiOiIzOTc5NTU4MzQ2NjExMDk2MTc3IiwiaSI6IkJBQUFBQVFBQUFCS3EzUkcySjFGSTBsTEhYYyJ9NmUxMzA4ZjVmYTFjMmVhNWVkYTQ5NzEyNzVjYzJlN2I=&tgShareScoreUrl=tg%3A%2F%2Fshare_game_score%3Fhash%3D-D4pwwx_VnDH33gGq6bKWSjcRfgcUMFpmN4_ih_oUfc</a>  
-
-
-This site was built using [GitHub Pages](https://pages.github.com/).
+The game can be played [here]([https://pages.github.com/](https://tbot.xyz/lumber/#eyJ1IjoxMTgyMDUxMTQ2LCJuIjoiQmVuemkgSiIsImciOiJMdW1iZXJKYWNrIiwiY2kiOiIzOTc5NTU4MzQ2NjExMDk2MTc3IiwiaSI6IkJBQUFBQVFBQUFCS3EzUkcySjFGSTBsTEhYYyJ9NmUxMzA4ZjVmYTFjMmVhNWVkYTQ5NzEyNzVjYzJlN2I=&tgShareScoreUrl=tg%3A%2F%2Fshare_game_score%3Fhash%3D-D4pwwx_VnDH33gGq6bKWSjcRfgcUMFpmN4_ih_oUfc)).
 
 # **II.	Bot playing the game**
   ## 1. Principle
