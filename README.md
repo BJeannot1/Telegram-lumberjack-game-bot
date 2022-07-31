@@ -28,7 +28,10 @@ The bot uses the following python libraries :
 ## 4. Performance
 Here is a video showing off the performance of the code :
 
-https://user-images.githubusercontent.com/67539849/178838292-b9a19ba4-0b91-4e04-816e-d51d50e365ea.mov
+
+
+https://user-images.githubusercontent.com/67539849/182007653-762bd172-7fd7-4c6b-a4e7-acadfeda02ca.mov
+
 
 The bot's performance compared to others on the internet comes from the fact it uses a single image to decide about the next 5 to 6 moves, by screening different pixels at the same time, while other codes usually use a given image to decide only about the next move.
 
